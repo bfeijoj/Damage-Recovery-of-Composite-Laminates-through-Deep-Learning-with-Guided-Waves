@@ -51,6 +51,7 @@ To execute these scripts seamlessly, adhere to the following directory structure
       |-- generate_samples.ipynb
       |-- training.ipynb
       |-- predict.ipynb
+      |-- requirements.txt
       |
       |-- data
       |     |
