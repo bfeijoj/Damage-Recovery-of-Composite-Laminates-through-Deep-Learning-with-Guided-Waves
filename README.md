@@ -95,6 +95,6 @@ Contributions to this repository are welcome! Feel free to submit issues and pul
 
 ## License
 
-This project is licensed under the GNU License.
+This project is licensed under the GNU GENERAL PUBLIC License.
 
 :four_leaf_clover: Feel free to explore, execute, and build upon these notebooks to understand and apply the methodology presented in the associated paper.
