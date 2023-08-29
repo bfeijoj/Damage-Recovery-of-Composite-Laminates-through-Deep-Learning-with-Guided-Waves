@@ -93,4 +93,8 @@ pip install -r requirements.txt
 
 Contributions to this repository are welcome! Feel free to submit issues and pull requests to enhance the functionality, documentation, or address any bugs.
 
-Feel free to explore, execute, and build upon these notebooks to understand and apply the methodology presented in the associated paper.
+## License
+
+This project is licensed under the GNU License.
+
+:four_leaf_clover: Feel free to explore, execute, and build upon these notebooks to understand and apply the methodology presented in the associated paper.
