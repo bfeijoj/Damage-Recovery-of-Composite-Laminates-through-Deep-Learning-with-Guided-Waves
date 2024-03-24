@@ -1,6 +1,6 @@
 # Damage Recovery of Composite Laminates through Deep Learning with Guided Waves
 
-Welcome to the repository dedicated to the solution algorithm discussed in the paper titled 'Damage Recovery in Composite Laminates through Deep Learning from Acoustic Scattering of Guided Waves'. Here, we present a comprehensive collection of notebooks that exemplify the methodology proposed in the paper.
+Welcome to the repository dedicated to the solution algorithm discussed in the paper entitled 'Damage Recovery in Composite Laminates through Deep Learning from Acoustic Scattering of Guided Waves'. Here, we present a comprehensive collection of notebooks that exemplify the methodology proposed in the paper.
 
 **Author:** Bernardo Feijó Junqueira
 
